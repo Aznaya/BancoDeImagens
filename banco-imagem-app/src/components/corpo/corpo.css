@@ -1,0 +1,10 @@
+.Corpo {
+    background-color: rgb(44, 44, 139);
+    height: 90vh;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+.Banco {
+  background-image: linear-gradient(#0c267ade, white);
+  color: white;
+  width: 15%;
+  height: 90vh;
+  padding: 2px;
+  position: fixed;
+  left: 0;
+  display: flex;
+  justify-content: center;
+}
