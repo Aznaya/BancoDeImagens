@@ -9,3 +9,35 @@
   display: flex;
   justify-content: center;
 }
+
+.Tabela {
+  width: 100%;
+
+  max-height: 50px;
+  display: grid;
+  justify-items: center;
+}
+
+.Botao {
+  background-color: aliceblue;
+  color: black;
+  width: 90%;
+  margin: 5%;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.Botao_Adicionar {
+  background-color: aliceblue;
+  color: black;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  font-size: xx-large;
+}
